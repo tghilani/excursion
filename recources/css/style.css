@@ -1,15 +1,14 @@
 body{
-    font-family: Verdana;
+    font-family: Verdana, sans-serif;
     background-color: black;
     text-align: center;
+	color: white;
 }
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
 }
-h3{
+.link {
   color:aquamarine;
   font-size: 16px;
 }
